@@ -1,0 +1,9 @@
+---
+title: Main menu
+items:
+- title: Home
+  target: ''
+  kind: blank
+  new_tab: false
+  children: []
+
