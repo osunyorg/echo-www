@@ -2,8 +2,8 @@
 title: Main menu
 items:
 - title: home
-  target: ''
-  kind: blank
+  target: https://www.echo.osuny.site/
+  kind: url
   new_tab: false
   children: []
 - title: about us
