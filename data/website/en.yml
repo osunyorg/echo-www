@@ -1,53 +1,7 @@
 default:
 contents_reading_time:
-  seconds: 5
+  seconds: 0
   text: >-
     less than a minute
 contents:
-  - kind: block
-    template: call_to_action
-    title: >-
-      
-    slug: >-
-      
-    ranks:
-      base: 2
-    top:
-      active: false
-    data:
-      layout: accent_background
-      text: >-
-        
-
-
-      alt: >-
-        
-
-      credit: >-
-        
-
-      buttons:
-        - title: >-
-            e-mail
-
-          url: >-
-            echocollective@proton.me
-
-          target_blank: false
-        - title: >-
-            what we do
-
-          url: >-
-            https://echo.echo.osuny.site/what-we-do/
-
-          target_blank: false
-        - title: >-
-            about us
-
-          url: >-
-            https://echo.echo.osuny.site/about-us/
-
-          target_blank: false
-
-
 
