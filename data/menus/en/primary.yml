@@ -8,13 +8,6 @@ items:
   children: []
   path: "/"
   file: content/en/_index.html
-- title: about us
-  target: "/about-us/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/about-us"
-  file: content/en/pages/about-us/_index.html
 - title: what we do
   target: "/what-we-do/"
   kind: page
@@ -29,6 +22,20 @@ items:
   children: []
   path: "/pages/our-work"
   file: content/en/pages/our-work/_index.html
+- title: coming up
+  target: "/agenda/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/events"
+  file: content/en/events/_index.html
+- title: about us
+  target: "/about-us/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/about-us"
+  file: content/en/pages/about-us/_index.html
 - title: contact
   target: "/contact/"
   kind: page
