@@ -8,7 +8,7 @@ items:
   children: []
   path: "/pages/privacy-policy"
   file: content/en/pages/privacy-policy/_index.html
-- title: Accessibility
+- title: accessibility
   target: "/accessibility/"
   kind: page
   new_tab: false
