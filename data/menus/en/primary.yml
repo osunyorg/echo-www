@@ -15,13 +15,6 @@ items:
   children: []
   path: "/pages/about-us"
   file: content/en/pages/about-us/_index.html
-- title: contact
-  target: "/contact/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/contact"
-  file: content/en/pages/contact/_index.html
 - title: what we do
   target: "/what-we-do/"
   kind: page
@@ -36,4 +29,11 @@ items:
   children: []
   path: "/pages/our-work"
   file: content/en/pages/our-work/_index.html
+- title: contact
+  target: "/contact/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/contact"
+  file: content/en/pages/contact/_index.html
 
