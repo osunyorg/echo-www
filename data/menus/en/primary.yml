@@ -1,14 +1,7 @@
 ---
 title: main menu
 items:
-- title: home
-  target: "/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/"
-  file: content/en/_index.html
-- title: what we do
+- title: our approach
   target: "/what-we-do/"
   kind: page
   new_tab: false
