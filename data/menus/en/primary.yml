@@ -1,20 +1,6 @@
 ---
 title: main menu
 items:
-- title: our approach
-  target: "/what-we-do/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/what-we-do"
-  file: content/en/pages/what-we-do/_index.html
-- title: our work
-  target: "/our-work/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/our-work"
-  file: content/en/pages/our-work/_index.html
 - title: coming up
   target: "/agenda/"
   kind: page
@@ -22,13 +8,6 @@ items:
   children: []
   path: "/events"
   file: content/en/events/_index.html
-- title: about us
-  target: "/about-us/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/about-us"
-  file: content/en/pages/about-us/_index.html
 - title: contact
   target: "/contact/"
   kind: page
@@ -36,4 +15,30 @@ items:
   children: []
   path: "/pages/contact"
   file: content/en/pages/contact/_index.html
+- title: about
+  target: ''
+  kind: blank
+  new_tab: false
+  children:
+  - title: what we do
+    target: "/what-we-do/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/what-we-do"
+    file: content/en/pages/what-we-do/_index.html
+  - title: our work
+    target: "/our-work/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/our-work"
+    file: content/en/pages/our-work/_index.html
+  - title: about us
+    target: "/about-us/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/about-us"
+    file: content/en/pages/about-us/_index.html
 
