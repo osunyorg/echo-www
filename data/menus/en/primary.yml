@@ -2,43 +2,58 @@
 title: main menu
 items:
 - title: about
+  slug: about
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: our approach
+    slug: our-approach
     target: "/our-approach/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/our-approach"
     file: content/en/pages/our-approach/_index.html
   - title: our work
+    slug: our-work
     target: "/our-work/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/our-work"
     file: content/en/pages/our-work/_index.html
   - title: about us
+    slug: about-us
     target: "/about-us/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/about-us"
     file: content/en/pages/about-us/_index.html
+  descendants_targets:
+  - "/about-us/"
+  - "/our-approach/"
+  - "/our-work/"
 - title: coming up
+  slug: coming-up
   target: "/agenda/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/events"
   file: content/en/events/_index.html
 - title: contact
+  slug: contact
   target: "/contact/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/contact"
   file: content/en/pages/contact/_index.html
 
