@@ -15,58 +15,58 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/2026/"
+from = "/2026/index.html"
 to = "/agenda/2026/"
 
 [[redirects]]
-from = "/2026/02/"
+from = "/2026/02/index.html"
 to = "/agenda/2026/02/"
 
 [[redirects]]
-from = "/team/laura-van-oosten/"
+from = "/team/laura-van-oosten/index.html"
 to = "/team/lau-they-them/"
 
 [[redirects]]
-from = "/2026/beyond-the-human-nature-dualism-an-unlearning-training/"
+from = "/2026/beyond-the-human-nature-dualism-an-unlearning-training/index.html"
 to = "/agenda/2026/beyond-the-human-nature-dualism-an-unlearning-training/"
 
 [[redirects]]
-from = "/beyond-human-nature-dualism-an-unlearning-journey/"
+from = "/beyond-human-nature-dualism-an-unlearning-journey/index.html"
 to = "/our-work/beyond-human-nature-dualism-an-unlearning-journey/"
 
 [[redirects]]
-from = "/they-them-lau/"
+from = "/they-them-lau/index.html"
 to = "/team/lau-they-them/"
 
 [[redirects]]
-from = "/from-roots-to-utopia/"
+from = "/from-roots-to-utopia/index.html"
 to = "/our-work/from-roots-to-utopia/"
 
 [[redirects]]
-from = "/projects/"
+from = "/projects/index.html"
 to = "/our-work-1/"
 
 [[redirects]]
-from = "/what-we-do/"
+from = "/what-we-do/index.html"
 to = "/our-approach/"
 
 [[redirects]]
-from = "/lau-they-them/"
+from = "/lau-they-them/index.html"
 to = "/team/lau-they-them/"
 
 [[redirects]]
-from = "/alex-griffin/"
+from = "/alex-griffin/index.html"
 to = "/team/alex-griffin/"
 
 [[redirects]]
-from = "/editors/"
+from = "/editors/index.html"
 to = "/team/editors/"
 
 [[redirects]]
-from = "/timo-kretschmer/"
+from = "/timo-kretschmer/index.html"
 to = "/team/timo-kretschmer/"
 
 [[redirects]]
-from = "/laura-van-oosten/"
+from = "/laura-van-oosten/index.html"
 to = "/team/lau-they-them/"
 
